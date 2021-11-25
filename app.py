@@ -1,5 +1,4 @@
 import os
-import shutil
 
 
 position = ['front', 'side', 'back', 'full', 'additional']
